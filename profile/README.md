@@ -2,6 +2,8 @@
 
 ![https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png](https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png)
 
+![shiny-rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/479.gif)
+
 All the Pokémon data you'll ever need in one place, easily accessible through a modern free open-source HTTP API.
 
 ## Projects
